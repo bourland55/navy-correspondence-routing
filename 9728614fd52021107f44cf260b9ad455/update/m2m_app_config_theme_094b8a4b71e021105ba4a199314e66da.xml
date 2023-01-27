@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>jeffrey</sys_created_by>
+        <sys_created_on>2023-01-27 02:27:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>094b8a4b71e021105ba4a199314e66da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Navy Correspondence Routing " source="x_snc_navy_corre_0">9728614fd52021107f44cf260b9ad455</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Navy Correspondence Routing ">9728614fd52021107f44cf260b9ad455</sys_scope>
+        <sys_update_name>m2m_app_config_theme_094b8a4b71e021105ba4a199314e66da</sys_update_name>
+        <sys_updated_by>jeffrey</sys_updated_by>
+        <sys_updated_on>2023-01-27 02:27:03</sys_updated_on>
+        <theme display_value="Starter Workspace Theme">cd4b8a4bbde02110136285c3534ceabf</theme>
+        <ux_app_configuration display_value="Navy Correspondence Routing  Config">8d4b8a4bdce02110ce2e5e617a86ddde</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

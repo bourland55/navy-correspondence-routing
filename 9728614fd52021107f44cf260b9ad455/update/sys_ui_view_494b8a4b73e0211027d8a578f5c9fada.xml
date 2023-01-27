@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>Workspace-Navy-Correspondence-Routing--0</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>jeffrey</sys_created_by>
+        <sys_created_on>2023-01-27 02:27:04</sys_created_on>
+        <sys_id>494b8a4b73e0211027d8a578f5c9fada</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Workspace Navy Correspondence Routing  0</sys_name>
+        <sys_package display_value="Navy Correspondence Routing " source="x_snc_navy_corre_0">9728614fd52021107f44cf260b9ad455</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Navy Correspondence Routing ">9728614fd52021107f44cf260b9ad455</sys_scope>
+        <sys_update_name>sys_ui_view_494b8a4b73e0211027d8a578f5c9fada</sys_update_name>
+        <sys_updated_by>jeffrey</sys_updated_by>
+        <sys_updated_on>2023-01-27 02:27:21</sys_updated_on>
+        <title>Workspace Navy Correspondence Routing  0</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

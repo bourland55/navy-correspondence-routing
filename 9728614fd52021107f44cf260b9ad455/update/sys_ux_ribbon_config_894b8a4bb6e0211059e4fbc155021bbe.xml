@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_ribbon_config">
+    <sys_ux_ribbon_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Navy Correspondence Routing  Ribbon Config</description>
+        <name>Navy Correspondence Routing  Ribbon Config</name>
+        <sys_class_name>sys_ux_ribbon_config</sys_class_name>
+        <sys_created_by>jeffrey</sys_created_by>
+        <sys_created_on>2023-01-27 02:27:03</sys_created_on>
+        <sys_id>894b8a4bb6e0211059e4fbc155021bbe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Navy Correspondence Routing  Ribbon Config</sys_name>
+        <sys_package display_value="Navy Correspondence Routing " source="x_snc_navy_corre_0">9728614fd52021107f44cf260b9ad455</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Navy Correspondence Routing ">9728614fd52021107f44cf260b9ad455</sys_scope>
+        <sys_update_name>sys_ux_ribbon_config_894b8a4bb6e0211059e4fbc155021bbe</sys_update_name>
+        <sys_updated_by>jeffrey</sys_updated_by>
+        <sys_updated_on>2023-01-27 02:27:03</sys_updated_on>
+    </sys_ux_ribbon_config>
+</record_update>

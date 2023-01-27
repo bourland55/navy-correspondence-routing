@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>ih_import_FD7dd13d4be06021109698e900ec51b05d</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>9728614fd52021107f44cf260b9ad455</scope_name>
+        <serialized_content>{"FlowDesigner:ih_import_FD7dd13d4be06021109698e900ec51b05d":{"u_type_of_request":"String","u_type_of_request.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"TYPE OF REQUEST\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_financial_cnsl":"String","u_financial_cnsl.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"FINANCIAL CNSL\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_req_leave_chit":"String","u_req_leave_chit.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"REQ/LEAVE CHIT\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_med_screening":"String","u_med_screening.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"MED SCREENING\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_amp_memo_ltr":"String","u_amp_memo_ltr.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"AMP MEMO/LTR\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_les":"String","u_les.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"LES\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_past_evals":"String","u_past_evals.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"PAST EVALS\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_pfa_result":"String","u_pfa_result.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"PFA RESULT\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}},"FlowDesigner:ih_import_FD7dd13d4be06021109698e900ec51b05d.$type_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"object\",\"co_type_name\":\"ih_import_FD7dd13d4be06021109698e900ec51b05d\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"Excel Header\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-27 00:35:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fdd13d4bd56021107f44cf260b9ad45d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ih_import_FD7dd13d4be06021109698e900ec51b05d</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Navy Correspondence Routing " source="x_snc_navy_corre_0">9728614fd52021107f44cf260b9ad455</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Navy Correspondence Routing ">9728614fd52021107f44cf260b9ad455</sys_scope>
+        <sys_update_name>sys_complex_object_fdd13d4bd56021107f44cf260b9ad45d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-27 00:35:55</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>
