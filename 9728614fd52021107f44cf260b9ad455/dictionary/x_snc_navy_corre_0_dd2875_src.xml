@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="73bc86b287b0ed507eabca25dabb35c4" label="DD2875 SRC" max_length="40" name="x_snc_navy_corre_0_dd2875_src" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="INITIAL" max_length="40" name="initial" type="string">
+            <choice>
+                <element inactive_on_update="false" label="MODIFICATION" sequence="0" value="modification"/>
+                <element inactive_on_update="false" label="DEACTIVATE" sequence="1" value="deactivate"/>
+                <element inactive_on_update="false" label="USER ID" sequence="2" value="user_id"/>
+            </choice>
+        </element>
+        <element label="LOCATION (Physical Location of System)" max_length="32" name="location_physical_location_of_system" reference="cmn_location" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="UNCLASSIFIED" max_length="40" name="unclassified" type="string">
+            <choice>
+                <element inactive_on_update="false" label="CLASSIFIED (Specify category)" sequence="0" value="classified_specify_category"/>
+                <element inactive_on_update="false" label="OTHER" sequence="1" value="other"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="2. ORGANIZATION" max_length="40" name="u_2_organization" type="string"/>
+    </element>
+</database>

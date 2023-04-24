@@ -40,7 +40,7 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>please_attach_these_documents</name>
-        <order>700</order>
+        <order>800</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
@@ -75,14 +75,14 @@
         <sys_created_by>jeffrey</sys_created_by>
         <sys_created_on>2023-01-27 01:39:33</sys_created_on>
         <sys_id>7dcfb5cbd5a021107f44cf260b9ad4f9</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Please attach documents below.</sys_name>
         <sys_package display_value="Navy Correspondence Routing " source="x_snc_navy_corre_0">9728614fd52021107f44cf260b9ad455</sys_package>
         <sys_policy/>
         <sys_scope display_value="Navy Correspondence Routing ">9728614fd52021107f44cf260b9ad455</sys_scope>
         <sys_update_name>item_option_new_7dcfb5cbd5a021107f44cf260b9ad4f9</sys_update_name>
-        <sys_updated_by>jeffrey</sys_updated_by>
-        <sys_updated_on>2023-01-27 01:55:12</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-01 00:19:41</sys_updated_on>
         <table/>
         <tooltip/>
         <type>11</type>

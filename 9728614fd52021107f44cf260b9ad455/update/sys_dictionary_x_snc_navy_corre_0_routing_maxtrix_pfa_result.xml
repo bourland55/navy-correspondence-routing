@@ -2,7 +2,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="pfa_result" table="x_snc_navy_corre_0_routing_maxtrix">
         <active>true</active>
         <array>false</array>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation/>
         <choice>0</choice>
@@ -47,7 +47,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-01-27 00:04:39</sys_created_on>
-        <sys_id>7faaadcfd52021107f44cf260b9ad43b</sys_id>
         <sys_name>PFA RESULT</sys_name>
         <sys_package display_value="Navy Correspondence Routing " source="x_snc_navy_corre_0">9728614fd52021107f44cf260b9ad455</sys_package>
         <sys_policy/>

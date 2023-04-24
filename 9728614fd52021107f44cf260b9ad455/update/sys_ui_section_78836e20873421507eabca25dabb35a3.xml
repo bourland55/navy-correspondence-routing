@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Remarks" section_id="78836e20873421507eabca25dabb35a3" sys_domain="global" table="x_snc_navy_corre_0_leave_request" version="3" view="Workspace-Navy-Correspondence-Routing--0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>orginator_remarks</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-31 20:03:50</sys_created_on>
+            <sys_id>85836e20873421507eabca25dabb35fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Remarks" display_value="Remarks" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="494b8a4b73e0211027d8a578f5c9fada">78836e20873421507eabca25dabb35a3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-31 20:03:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reviewer_remarks</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-31 20:03:50</sys_created_on>
+            <sys_id>89836e20873421507eabca25dabb35fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Remarks" display_value="Remarks" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="494b8a4b73e0211027d8a578f5c9fada">78836e20873421507eabca25dabb35a3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-31 20:03:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Remarks</caption>
+            <header>false</header>
+            <name>x_snc_navy_corre_0_leave_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-31 20:03:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>78836e20873421507eabca25dabb35a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_navy_corre_0_leave_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Navy Correspondence Routing " source="x_snc_navy_corre_0">9728614fd52021107f44cf260b9ad455</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Navy Correspondence Routing ">9728614fd52021107f44cf260b9ad455</sys_scope>
+            <sys_update_name>sys_ui_section_78836e20873421507eabca25dabb35a3</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-31 20:03:49</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace Navy Correspondence Routing  0" name="Workspace-Navy-Correspondence-Routing--0">494b8a4b73e0211027d8a578f5c9fada</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

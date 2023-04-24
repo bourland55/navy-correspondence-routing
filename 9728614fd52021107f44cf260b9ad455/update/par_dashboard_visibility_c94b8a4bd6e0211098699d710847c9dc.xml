@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_visibility">
     <par_dashboard_visibility action="INSERT_OR_UPDATE">
         <dashboard display_value="Navy Correspondence Routing ">4d4b8a4bcee0211064e1de5607eaa4be</dashboard>
-        <experience display_value="Navy Correspondence Routing ">c94b8a4b2ee021103ebd37f3de99e9bf</experience>
+        <experience display_value="Navy Correspondence ">c94b8a4b2ee021103ebd37f3de99e9bf</experience>
         <sys_class_name>par_dashboard_visibility</sys_class_name>
         <sys_created_by>jeffrey</sys_created_by>
         <sys_created_on>2023-01-27 02:27:02</sys_created_on>

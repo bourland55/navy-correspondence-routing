@@ -17,16 +17,44 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-31 20:58:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ca00b664877421507eabca25dabb35c5</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_navy_corre_0_leave_request" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="Default view">c74cb1c7d5a021107f44cf260b9ad4c2</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="Default view">b500b664877421507eabca25dabb355f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-31 20:58:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-31 20:59:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d950be64877421507eabca25dabb3513</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_navy_corre_0_leave_request" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="Default view">c74cb1c7d5a021107f44cf260b9ad4c2</sys_ui_form>
+            <sys_ui_section caption="Dates" display_value="Dates" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="Default view">1150be64877421507eabca25dabb3511</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-31 20:59:51</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
             <sys_created_on>2023-01-27 01:22:25</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>877cb5c7d5a021107f44cf260b9ad4be</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_snc_navy_corre_0_leave_request" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="Default view">c74cb1c7d5a021107f44cf260b9ad4c2</sys_ui_form>
-            <sys_ui_section caption="Remarks" display_value="Remarks" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="Default view">be7cb5c7d5a021107f44cf260b9ad492</sys_ui_section>
+            <sys_ui_section caption="Remarks" display_value="Remarks" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="Default view">434cb1c7d5a021107f44cf260b9ad4c1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-01-27 01:22:25</sys_updated_on>
+            <sys_updated_on>2023-01-31 20:59:51</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_snc_navy_corre_0_leave_request</name>

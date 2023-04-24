@@ -4,153 +4,181 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-01-27 01:22:26</sys_created_on>
-            <sys_id>437cb5c7d5a021107f44cf260b9ad4ec</sys_id>
+            <sys_created_on>2023-01-31 21:11:21</sys_created_on>
+            <sys_id>82f276a8877421507eabca25dabb356e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="Default view">2864314fd56021107f44cf260b9ad47b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-01-27 01:22:26</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>assigned_to</element>
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-01-27 01:22:26</sys_created_on>
-            <sys_id>477cb5c7d5a021107f44cf260b9ad4ec</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="Default view">2864314fd56021107f44cf260b9ad47b</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-01-27 01:22:26</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>routing_number</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-01-27 01:22:26</sys_created_on>
-            <sys_id>4b7cb5c7d5a021107f44cf260b9ad4ec</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="Default view">2864314fd56021107f44cf260b9ad47b</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-01-27 01:22:26</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>subject</element>
-            <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-01-27 01:22:26</sys_created_on>
-            <sys_id>4f7cb5c7d5a021107f44cf260b9ad4ec</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="Default view">2864314fd56021107f44cf260b9ad47b</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-01-27 01:22:26</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>due_dat0</element>
-            <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-01-27 01:22:26</sys_created_on>
-            <sys_id>437cb5c7d5a021107f44cf260b9ad4ed</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="Default view">2864314fd56021107f44cf260b9ad47b</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-01-27 01:22:26</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
-            <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-01-27 01:22:26</sys_created_on>
-            <sys_id>477cb5c7d5a021107f44cf260b9ad4ed</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="Default view">2864314fd56021107f44cf260b9ad47b</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-01-27 01:22:26</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>priority</element>
-            <position>6</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-01-27 01:22:26</sys_created_on>
-            <sys_id>4b7cb5c7d5a021107f44cf260b9ad4ed</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="Default view">2864314fd56021107f44cf260b9ad47b</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-01-27 01:22:26</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>state</element>
-            <position>7</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-01-27 01:22:26</sys_created_on>
-            <sys_id>4f7cb5c7d5a021107f44cf260b9ad4ed</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="Default view">2864314fd56021107f44cf260b9ad47b</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-01-27 01:22:26</sys_updated_on>
+            <sys_updated_on>2023-01-31 21:11:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>opened_by</element>
-            <position>8</position>
+            <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-01-27 01:22:26</sys_created_on>
-            <sys_id>437cb5c7d5a021107f44cf260b9ad4ee</sys_id>
+            <sys_created_on>2023-01-31 21:11:21</sys_created_on>
+            <sys_id>8af276a8877421507eabca25dabb356e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="Default view">2864314fd56021107f44cf260b9ad47b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-01-27 01:22:26</sys_updated_on>
+            <sys_updated_on>2023-01-31 21:11:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>sys_created_on</element>
-            <position>9</position>
+            <element>types_of_request</element>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-01-27 01:22:26</sys_created_on>
-            <sys_id>477cb5c7d5a021107f44cf260b9ad4ee</sys_id>
+            <sys_created_on>2023-01-31 21:11:21</sys_created_on>
+            <sys_id>8ef276a8877421507eabca25dabb356e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="Default view">2864314fd56021107f44cf260b9ad47b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-01-27 01:22:26</sys_updated_on>
+            <sys_updated_on>2023-01-31 21:11:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>approval</element>
-            <position>10</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-01-27 01:22:26</sys_created_on>
-            <sys_id>4b7cb5c7d5a021107f44cf260b9ad4ee</sys_id>
+            <sys_created_on>2023-01-31 21:11:21</sys_created_on>
+            <sys_id>82f276a8877421507eabca25dabb356f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="Default view">2864314fd56021107f44cf260b9ad47b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-01-27 01:22:26</sys_updated_on>
+            <sys_updated_on>2023-01-31 21:11:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>xo_approval</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-31 21:11:21</sys_created_on>
+            <sys_id>86f276a8877421507eabca25dabb356f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="Default view">2864314fd56021107f44cf260b9ad47b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-31 21:11:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>co_approval</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-31 21:11:21</sys_created_on>
+            <sys_id>8af276a8877421507eabca25dabb356f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="Default view">2864314fd56021107f44cf260b9ad47b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-31 21:11:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-31 21:11:21</sys_created_on>
+            <sys_id>8ef276a8877421507eabca25dabb356f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="Default view">2864314fd56021107f44cf260b9ad47b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-31 21:11:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-31 21:11:21</sys_created_on>
+            <sys_id>82f276a8877421507eabca25dabb3570</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="Default view">2864314fd56021107f44cf260b9ad47b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-31 21:11:21</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-31 21:11:21</sys_created_on>
+            <sys_id>86f276a8877421507eabca25dabb3570</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="Default view">2864314fd56021107f44cf260b9ad47b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-31 21:11:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-31 21:11:21</sys_created_on>
+            <sys_id>8af276a8877421507eabca25dabb3570</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="Default view">2864314fd56021107f44cf260b9ad47b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-31 21:11:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-31 21:11:21</sys_created_on>
+            <sys_id>8ef276a8877421507eabca25dabb3570</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="Default view">2864314fd56021107f44cf260b9ad47b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-31 21:11:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-31 21:11:21</sys_created_on>
+            <sys_id>82f276a8877421507eabca25dabb3571</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="Default view">2864314fd56021107f44cf260b9ad47b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-31 21:11:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-31 21:11:21</sys_created_on>
+            <sys_id>86f276a8877421507eabca25dabb3571</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="Default view">2864314fd56021107f44cf260b9ad47b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-31 21:11:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

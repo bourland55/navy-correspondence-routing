@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="e5d5d6a887b021507eabca25dabb35b4" sys_domain="global" table="x_snc_navy_corre_0_leave_request" version="3" view="Workspace-Navy-Correspondence-Routing--0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-01 01:37:41</sys_created_on>
+            <sys_id>d3efafe4873c21507eabca25dabb35df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="494b8a4b73e0211027d8a578f5c9fada">e5d5d6a887b021507eabca25dabb35b4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-01 01:37:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_by</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-01 01:37:41</sys_created_on>
+            <sys_id>d3efafe4873c21507eabca25dabb35ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="494b8a4b73e0211027d8a578f5c9fada">e5d5d6a887b021507eabca25dabb35b4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-01 01:37:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>types_of_request</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-01 01:37:41</sys_created_on>
+            <sys_id>d7efafe4873c21507eabca25dabb35ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="494b8a4b73e0211027d8a578f5c9fada">e5d5d6a887b021507eabca25dabb35b4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-01 01:37:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-01 01:37:41</sys_created_on>
+            <sys_id>dbefafe4873c21507eabca25dabb35ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="494b8a4b73e0211027d8a578f5c9fada">e5d5d6a887b021507eabca25dabb35b4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-01 01:37:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>xo_approval</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-01 01:37:41</sys_created_on>
+            <sys_id>dfefafe4873c21507eabca25dabb35ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="494b8a4b73e0211027d8a578f5c9fada">e5d5d6a887b021507eabca25dabb35b4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-01 01:37:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>co_approval</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-01 01:37:41</sys_created_on>
+            <sys_id>d3efafe4873c21507eabca25dabb35ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="494b8a4b73e0211027d8a578f5c9fada">e5d5d6a887b021507eabca25dabb35b4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-01 01:37:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-01 01:37:41</sys_created_on>
+            <sys_id>d7efafe4873c21507eabca25dabb35ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="494b8a4b73e0211027d8a578f5c9fada">e5d5d6a887b021507eabca25dabb35b4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-01 01:37:41</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-01 01:37:41</sys_created_on>
+            <sys_id>dbefafe4873c21507eabca25dabb35ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="494b8a4b73e0211027d8a578f5c9fada">e5d5d6a887b021507eabca25dabb35b4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-01 01:37:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-01 01:37:41</sys_created_on>
+            <sys_id>dfefafe4873c21507eabca25dabb35ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="494b8a4b73e0211027d8a578f5c9fada">e5d5d6a887b021507eabca25dabb35b4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-01 01:37:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-01 01:37:41</sys_created_on>
+            <sys_id>d3efafe4873c21507eabca25dabb35ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="494b8a4b73e0211027d8a578f5c9fada">e5d5d6a887b021507eabca25dabb35b4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-01 01:37:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-01 01:37:41</sys_created_on>
+            <sys_id>d7efafe4873c21507eabca25dabb35ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="494b8a4b73e0211027d8a578f5c9fada">e5d5d6a887b021507eabca25dabb35b4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-01 01:37:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-01 01:37:41</sys_created_on>
+            <sys_id>dbefafe4873c21507eabca25dabb35ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="494b8a4b73e0211027d8a578f5c9fada">e5d5d6a887b021507eabca25dabb35b4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-01 01:37:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-01 01:37:41</sys_created_on>
+            <sys_id>dfefafe4873c21507eabca25dabb35ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="494b8a4b73e0211027d8a578f5c9fada">e5d5d6a887b021507eabca25dabb35b4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-01 01:37:41</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-01 01:37:41</sys_created_on>
+            <sys_id>d3efafe4873c21507eabca25dabb35ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_navy_corre_0_leave_request" sys_domain="global" view="494b8a4b73e0211027d8a578f5c9fada">e5d5d6a887b021507eabca25dabb35b4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-01 01:37:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_navy_corre_0_leave_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-31 19:04:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e5d5d6a887b021507eabca25dabb35b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_navy_corre_0_leave_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Navy Correspondence Routing " source="x_snc_navy_corre_0">9728614fd52021107f44cf260b9ad455</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Navy Correspondence Routing ">9728614fd52021107f44cf260b9ad455</sys_scope>
+            <sys_update_name>sys_ui_section_e5d5d6a887b021507eabca25dabb35b4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-31 19:04:04</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace Navy Correspondence Routing  0" name="Workspace-Navy-Correspondence-Routing--0">494b8a4b73e0211027d8a578f5c9fada</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

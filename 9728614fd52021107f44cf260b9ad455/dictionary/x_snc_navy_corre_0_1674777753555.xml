@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="153a25cfd52021107f44cf260b9ad4a8" extends="sys_import_set_row" label="Navy Corre 0 1674777753555" max_length="40" name="x_snc_navy_corre_0_1674777753555" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=AMP MEMO/LTR" label="AMP MEMO/LTR" max_length="40" name="u_amp_memo_ltr" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=FINANCIAL CNSL" label="FINANCIAL CNSL" max_length="40" name="u_financial_cnsl" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=LES" label="LES" max_length="40" name="u_les" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=MED SCREENING" label="MED SCREENING" max_length="40" name="u_med_screening" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=PAST EVALS" label="PAST EVALS" max_length="40" name="u_past_evals" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=PFA RESULT" label="PFA RESULT" max_length="40" name="u_pfa_result" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=REQ/LEAVE CHIT" label="REQ/LEAVE CHIT" max_length="40" name="u_req_leave_chit" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=TYPE OF REQUEST" label="TYPE OF REQUEST" max_length="40" name="u_type_of_request" type="string"/>
+    </element>
+</database>

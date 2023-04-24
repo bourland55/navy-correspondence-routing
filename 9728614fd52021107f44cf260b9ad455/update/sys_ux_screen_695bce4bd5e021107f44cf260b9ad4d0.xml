@@ -4,7 +4,7 @@
         <app_config display_value="Navy Correspondence Routing  Config">8d4b8a4bdce02110ce2e5e617a86ddde</app_config>
         <description/>
         <event_mappings>[ ]</event_mappings>
-        <macroponent display_value="Correspondence Request">215bce4bd5e021107f44cf260b9ad4b2</macroponent>
+        <macroponent display_value="Correspondence Request Record Page">215bce4bd5e021107f44cf260b9ad4b2</macroponent>
         <macroponent_config>{
   "views" : {
     "type" : "JSON_LITERAL",

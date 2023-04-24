@@ -3,7 +3,7 @@
         <choices/>
         <description>A default view for Navy Correspondence Routing  generated</description>
         <name>view</name>
-        <page display_value="Navy Correspondence Routing ">c94b8a4b2ee021103ebd37f3de99e9bf</page>
+        <page display_value="Navy Correspondence ">c94b8a4b2ee021103ebd37f3de99e9bf</page>
         <required_translations/>
         <route/>
         <suffix/>

@@ -3,7 +3,7 @@
         <choices/>
         <description>Tabs Configuration</description>
         <name>chrome_tab</name>
-        <page display_value="Navy Correspondence Routing ">c94b8a4b2ee021103ebd37f3de99e9bf</page>
+        <page display_value="Navy Correspondence ">c94b8a4b2ee021103ebd37f3de99e9bf</page>
         <required_translations>[ {
   "message" : "New Correspondence Request",
   "comment" : ""

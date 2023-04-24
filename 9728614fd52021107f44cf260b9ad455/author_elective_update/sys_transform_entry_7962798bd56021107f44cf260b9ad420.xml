@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_entry">
+    <sys_transform_entry action="DELETE">
+        <choice_action>create</choice_action>
+        <coalesce>false</coalesce>
+        <coalesce_case_sensitive>false</coalesce_case_sensitive>
+        <coalesce_empty_fields>false</coalesce_empty_fields>
+        <date_format>yyyy-MM-dd HH:mm:ss</date_format>
+        <map display_value="u_imp_tmpl_x_snc_navy_corre_0_routing_maxtrix">3d62f58bd56021107f44cf260b9ad4bd</map>
+        <reference_value_field/>
+        <source_field>u_financial_cnsl</source_field>
+        <source_script><![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]></source_script>
+        <source_table>u_imp_tmpl_x_snc_navy_corre_0_routing_maxtrix</source_table>
+        <sys_class_name>sys_transform_entry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-27 00:38:22</sys_created_on>
+        <sys_id>7962798bd56021107f44cf260b9ad420</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_financial_cnsl</sys_name>
+        <sys_package display_value="Navy Correspondence Routing " source="x_snc_navy_corre_0">9728614fd52021107f44cf260b9ad455</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Navy Correspondence Routing ">9728614fd52021107f44cf260b9ad455</sys_scope>
+        <sys_update_name>sys_transform_entry_7962798bd56021107f44cf260b9ad420</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-27 00:38:22</sys_updated_on>
+        <target_field>financial_cnsl</target_field>
+        <target_table>x_snc_navy_corre_0_routing_maxtrix</target_table>
+        <use_source_script>false</use_source_script>
+    </sys_transform_entry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Navy Correspondence Routing ">9728614fd52021107f44cf260b9ad455</application>
+        <file_path/>
+        <instance_id>a8a0b22edbda91944d2bac44d49619ab</instance_id>
+        <instance_name>db6tokyodemo</instance_name>
+        <name>sys_transform_entry_7962798bd56021107f44cf260b9ad420</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_entry"&gt;&lt;sys_transform_entry action="INSERT_OR_UPDATE"&gt;&lt;choice_action&gt;create&lt;/choice_action&gt;&lt;coalesce&gt;false&lt;/coalesce&gt;&lt;coalesce_case_sensitive&gt;false&lt;/coalesce_case_sensitive&gt;&lt;coalesce_empty_fields&gt;false&lt;/coalesce_empty_fields&gt;&lt;date_format&gt;yyyy-MM-dd HH:mm:ss&lt;/date_format&gt;&lt;map display_value="u_imp_tmpl_x_snc_navy_corre_0_routing_maxtrix"&gt;3d62f58bd56021107f44cf260b9ad4bd&lt;/map&gt;&lt;reference_value_field/&gt;&lt;source_field&gt;u_financial_cnsl&lt;/source_field&gt;&lt;source_script&gt;&lt;![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]&gt;&lt;/source_script&gt;&lt;source_table&gt;u_imp_tmpl_x_snc_navy_corre_0_routing_maxtrix&lt;/source_table&gt;&lt;sys_class_name&gt;sys_transform_entry&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-01-27 00:38:22&lt;/sys_created_on&gt;&lt;sys_id&gt;7962798bd56021107f44cf260b9ad420&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;u_financial_cnsl&lt;/sys_name&gt;&lt;sys_package display_value="Navy Correspondence Routing " source="x_snc_navy_corre_0"&gt;9728614fd52021107f44cf260b9ad455&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Navy Correspondence Routing "&gt;9728614fd52021107f44cf260b9ad455&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_entry_7962798bd56021107f44cf260b9ad420&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-01-27 00:38:22&lt;/sys_updated_on&gt;&lt;target_field&gt;financial_cnsl&lt;/target_field&gt;&lt;target_table&gt;x_snc_navy_corre_0_routing_maxtrix&lt;/target_table&gt;&lt;use_source_script&gt;false&lt;/use_source_script&gt;&lt;/sys_transform_entry&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1378064976</payload_hash>
+        <record_name>u_financial_cnsl</record_name>
+        <reverted_from/>
+        <source>71b716df87e8e5107eabca25dabb3507</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-27 22:00:48</sys_created_on>
+        <sys_id>97e71213872ce5107eabca25dabb355a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>185f53f5e2e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-27 22:00:48</sys_updated_on>
+        <type>Field Map</type>
+        <update_guid>f962798b12602110dcdfb91f3d929d21</update_guid>
+        <update_guid_history>f962798b12602110dcdfb91f3d929d21:1378064976</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-31 17:43:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_transform_entry">sys_transform_entry</sys_db_object>
+        <sys_id>3e23de2b434c410dac3495db30caa521</sys_id>
+        <sys_metadata>7962798bd56021107f44cf260b9ad420</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_financial_cnsl</sys_name>
+        <sys_package display_value="Navy Correspondence Routing " source="x_snc_navy_corre_0">9728614fd52021107f44cf260b9ad455</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Navy Correspondence Routing ">9728614fd52021107f44cf260b9ad455</sys_scope>
+        <sys_scope_delete display_value="">092b10eb0eb24aa0a48f6a209bb63440</sys_scope_delete>
+        <sys_update_name>sys_transform_entry_7962798bd56021107f44cf260b9ad420</sys_update_name>
+        <sys_update_version display_value="sys_transform_entry_7962798bd56021107f44cf260b9ad420">97e71213872ce5107eabca25dabb355a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-31 17:43:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

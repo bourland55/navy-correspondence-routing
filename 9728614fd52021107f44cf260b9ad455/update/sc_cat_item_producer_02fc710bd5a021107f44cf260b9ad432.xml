@@ -2,6 +2,7 @@
     <sc_cat_item_producer action="INSERT_OR_UPDATE">
         <access_type>restricted</access_type>
         <active>true</active>
+        <additional_review>false</additional_review>
         <allow_edit>false</allow_edit>
         <availability>on_desktop</availability>
         <billable>false</billable>
@@ -9,6 +10,7 @@
         <category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</category>
         <checked_out/>
         <cost>0</cost>
+        <create_universal_request>false</create_universal_request>
         <custom_cart/>
         <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
         <delivery_plan_script/>
@@ -45,7 +47,7 @@
         <omit_price>false</omit_price>
         <order>0</order>
         <ordered_item_link/>
-        <owner display_value="Jeffrey Elliott">8aab6143d56021107f44cf260b9ad491</owner>
+        <owner display_value="">8aab6143d56021107f44cf260b9ad491</owner>
         <picture>ac9d710bd5a021107f44cf260b9ad46b</picture>
         <post_insert_script><![CDATA[/**
 * This script is executed after the record is generated. 
@@ -132,19 +134,20 @@
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
+        <encryption_context/>
         <file_name>IWTG.png</file_name>
         <hash>3d3e438ae593adce87cc70883de717e2b59ddd375869874aa453df1cad94fe4e</hash>
         <image_height/>
         <image_width/>
         <size_bytes>470523</size_bytes>
         <size_compressed>470064</size_compressed>
-        <state>pending</state>
+        <state>available</state>
         <sys_created_by>jeffrey</sys_created_by>
         <sys_created_on>2023-01-27 01:27:11</sys_created_on>
         <sys_id>ac9d710bd5a021107f44cf260b9ad46b</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-01-27 01:39:37</sys_updated_on>
+        <sys_updated_on>2023-01-30 23:02:06</sys_updated_on>
         <table_name>ZZ_YYsc_cat_item_producer</table_name>
         <table_sys_id>02fc710bd5a021107f44cf260b9ad432</table_sys_id>
     </sys_attachment>

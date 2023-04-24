@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Correspondence Request</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Correspondence Request</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">10f336e6871211107eabca25dabb35ca</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-27 22:00:24</sys_created_on>
+        <sys_id>a5d79adf87e8e5107eabca25dabb3569</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Correspondence Request</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Navy Correspondence Routing ">9728614fd52021107f44cf260b9ad455</sys_scope>
+        <sys_update_name>sys_wizard_answer_a5d79adf87e8e5107eabca25dabb3569</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-27 22:00:24</sys_updated_on>
+        <table/>
+        <target_url>x_snc_navy_corre_0_leave_request.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

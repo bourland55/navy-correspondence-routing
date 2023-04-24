@@ -2,13 +2,13 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="types_of_request" table="x_snc_navy_corre_0_leave_request">
         <active>true</active>
         <array>false</array>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true,encode_utf8=false</attributes>
         <audit>false</audit>
         <calculation/>
         <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Types of Request</column_label>
+        <column_label>Type of Request</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -47,14 +47,13 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-01-27 01:18:17</sys_created_on>
-        <sys_id>9a8bb187d5a021107f44cf260b9ad4c3</sys_id>
-        <sys_name>Types of Request</sys_name>
+        <sys_name>Type of Request</sys_name>
         <sys_package display_value="Navy Correspondence Routing " source="x_snc_navy_corre_0">9728614fd52021107f44cf260b9ad455</sys_package>
         <sys_policy/>
         <sys_scope display_value="Navy Correspondence Routing ">9728614fd52021107f44cf260b9ad455</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_navy_corre_0_leave_request_types_of_request</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-01-27 01:18:20</sys_updated_on>
+        <sys_updated_on>2023-01-31 20:04:34</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

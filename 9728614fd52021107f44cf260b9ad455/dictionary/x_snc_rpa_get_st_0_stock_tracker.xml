@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fa4b63828754ad54ee58fcc7dabb351a" label="Stock Tracker" max_length="40" name="x_snc_rpa_get_st_0_stock_tracker" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Current Price" max_length="40" name="x_snc_navy_corre_0_current_price" type="string"/>
+    </element>
+</database>

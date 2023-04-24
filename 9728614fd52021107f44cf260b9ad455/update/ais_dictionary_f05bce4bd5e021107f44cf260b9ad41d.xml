@@ -8,12 +8,12 @@
         <derived>true</derived>
         <field/>
         <label>Navy Correspondence Routing  search profile Default Spell Check Dictionary</label>
-        <last_derived/>
+        <last_derived>2023-04-24 01:26:56</last_derived>
         <locale>en</locale>
         <name>x_snc_navy_corre_0_navy_correspondence_routing_search_profile_default_spell_check_dictionary</name>
-        <publish_id/>
+        <publish_id>986ae186-ad4b-4e1b-949f-2fc6f57faeec</publish_id>
         <punctuation_sensitive>false</punctuation_sensitive>
-        <state>DRAFT</state>
+        <state>PUBLISHED</state>
         <sys_class_name>ais_dictionary</sys_class_name>
         <sys_created_by>jeffrey</sys_created_by>
         <sys_created_on>2023-01-27 02:27:16</sys_created_on>

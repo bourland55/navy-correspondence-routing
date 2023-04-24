@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">414b8a4bfee021105cd3292b4f79afc0</canvas>
+        <component display_value="">3a64f550256090d9578ede76158e899c</component>
+        <component_props>{"variant":"header-tertiary","label":"Happening now","wontWrap":false,"hasNoMargin":false,"level":"1"}</component_props>
+        <h>2</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>jeffrey</sys_created_by>
+        <sys_created_on>2023-01-27 02:27:03</sys_created_on>
+        <sys_id>454b8a4bb2e02110443fd6009f0330da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Navy Correspondence Routing " source="x_snc_navy_corre_0">9728614fd52021107f44cf260b9ad455</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Navy Correspondence Routing ">9728614fd52021107f44cf260b9ad455</sys_scope>
+        <sys_update_name>par_dashboard_widget_454b8a4bb2e02110443fd6009f0330da</sys_update_name>
+        <sys_updated_by>jeffrey</sys_updated_by>
+        <sys_updated_on>2023-01-27 02:27:03</sys_updated_on>
+        <visualization/>
+        <w>12</w>
+        <x>0</x>
+        <y>0</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Navy Correspondence Routing ">9728614fd52021107f44cf260b9ad455</application>
+        <file_path/>
+        <instance_id>a8a0b22edbda91944d2bac44d49619ab</instance_id>
+        <instance_name>db6tokyodemo</instance_name>
+        <name>par_dashboard_widget_454b8a4bb2e02110443fd6009f0330da</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">414b8a4bfee021105cd3292b4f79afc0</canvas><component display_value="">3a64f550256090d9578ede76158e899c</component><component_props>{"variant":"header-tertiary","label":"Happening now","wontWrap":false,"hasNoMargin":false,"level":"1"}</component_props><h>2</h><name/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>jeffrey</sys_created_by><sys_created_on>2023-01-27 02:27:03</sys_created_on><sys_id>454b8a4bb2e02110443fd6009f0330da</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Navy Correspondence Routing " source="x_snc_navy_corre_0">9728614fd52021107f44cf260b9ad455</sys_package><sys_policy/><sys_scope display_value="Navy Correspondence Routing ">9728614fd52021107f44cf260b9ad455</sys_scope><sys_update_name>par_dashboard_widget_454b8a4bb2e02110443fd6009f0330da</sys_update_name><sys_updated_by>jeffrey</sys_updated_by><sys_updated_on>2023-01-27 02:27:03</sys_updated_on><visualization/><w>12</w><x>0</x><y>0</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>1818009728</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>71b716df87e8e5107eabca25dabb3507</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-27 22:00:36</sys_created_on>
+        <sys_id>1ce75edf87e8e5107eabca25dabb3507</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>185f53f2d550000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-27 22:00:36</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>d8e75edfede8e5109cb0b33414225107</update_guid>
+        <update_guid_history>d8e75edfede8e5109cb0b33414225107:1818009728</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">83559a6887b021507eabca25dabb35d4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-31 19:01:59</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>81cd08a6f4a84f2cacf953b7c092e199</sys_id>
+        <sys_metadata>454b8a4bb2e02110443fd6009f0330da</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Navy Correspondence Routing " source="x_snc_navy_corre_0">9728614fd52021107f44cf260b9ad455</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Navy Correspondence Routing ">9728614fd52021107f44cf260b9ad455</sys_scope>
+        <sys_scope_delete display_value="">092b10eb0eb24aa0a48f6a209bb63440</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_454b8a4bb2e02110443fd6009f0330da</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_454b8a4bb2e02110443fd6009f0330da">1ce75edf87e8e5107eabca25dabb3507</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-31 19:01:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

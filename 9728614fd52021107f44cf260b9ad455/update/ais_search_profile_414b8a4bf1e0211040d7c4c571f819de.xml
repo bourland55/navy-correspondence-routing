@@ -5,8 +5,8 @@
         <genius_result_assembly/>
         <label>Navy Correspondence Routing  search profile</label>
         <name>x_snc_navy_corre_0_syrvtbk_search_profile</name>
-        <publish_id>4b4c2134-9876-4894-b059-58d398587ca4</publish_id>
-        <state>DRAFT</state>
+        <publish_id>62e04a33-35f7-47b0-bbaa-8f22881a2d5b</publish_id>
+        <state>PUBLISHED</state>
         <sys_class_name>ais_search_profile</sys_class_name>
         <sys_created_by>jeffrey</sys_created_by>
         <sys_created_on>2023-01-27 02:27:02</sys_created_on>

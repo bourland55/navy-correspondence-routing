@@ -20,7 +20,7 @@
         <sys_updated_by>jeffrey</sys_updated_by>
         <sys_updated_on>2023-01-27 01:50:04</sys_updated_on>
         <table/>
-        <ui_policy display_value="Correspondence Request UI policy">9db20e4fd5a021107f44cf260b9ad4ad</ui_policy>
+        <ui_policy display_value="Make 'work_end' visible depending on 'types_of_request' &amp; 'types_of_request'">9db20e4fd5a021107f44cf260b9ad4ad</ui_policy>
         <variable>work_end</variable>
         <variable_set/>
         <visible>true</visible>
