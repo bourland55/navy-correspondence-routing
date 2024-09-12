@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element audit="true" db_object_id="0744354fd56021107f44cf260b9ad402" extends="task" label="Correspondence Request" max_length="40" name="x_snc_navy_corre_0_leave_request" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Due Date" max_length="40" name="due_dat0" type="due_date"/>
+        <element label="Date" max_length="40" name="date" type="glide_date"/>
+        <element label="Routing Number" max_length="40" name="routing_number" type="string"/>
+        <element label="Orginator Remarks" max_length="300" name="orginator_remarks" type="string"/>
+        <element label="Reviewer Remarks" max_length="300" name="reviewer_remarks" type="string"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Type of Request" max_length="32" name="types_of_request" reference="x_snc_navy_corre_0_routing_maxtrix" type="reference"/>
+        <element label="Subject" max_length="40" name="subject" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Approvals Done By Date" max_length="255" name="approvals_done_by_date" type="glide_date"/>
+        <element label="Orginator" max_length="40" name="orginator" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="XO Approval" max_length="40" name="xo_approval" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Requested" sequence="1" value="requested"/>
+                <element inactive_on_update="false" label="Not Yet Requested" sequence="0" value="not_yet_requested"/>
+                <element inactive_on_update="false" label="Rejected" sequence="3" value="rejected"/>
+                <element inactive_on_update="false" label="Approved" sequence="2" value="approved"/>
+            </choice>
+        </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="CO Approval" max_length="40" name="co_approval" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Not Yet Requested" sequence="0" value="not_yet_requested"/>
-                <element inactive_on_update="false" label="Requested" sequence="1" value="requested"/>
-                <element inactive_on_update="false" label="Approved" sequence="2" value="approved"/>
                 <element inactive_on_update="false" label="Rejected" sequence="3" value="rejected"/>
-            </choice>
-        </element>
-        <element label="Date" max_length="40" name="date" type="glide_date"/>
-        <element attributes="edge_encryption_enabled=true" label="Due Date" max_length="40" name="due_dat0" type="due_date"/>
-        <element label="Orginator" max_length="40" name="orginator" type="string"/>
-        <element label="Orginator Remarks" max_length="300" name="orginator_remarks" type="string"/>
-        <element label="Reviewer Remarks" max_length="300" name="reviewer_remarks" type="string"/>
-        <element label="Routing Number" max_length="40" name="routing_number" type="string"/>
-        <element label="Subject" max_length="40" name="subject" type="string"/>
-        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Type of Request" max_length="32" name="types_of_request" reference="x_snc_navy_corre_0_routing_maxtrix" type="reference"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" label="XO Approval" max_length="40" name="xo_approval" type="choice">
-            <choice>
-                <element inactive_on_update="false" label="Not Yet Requested" sequence="0" value="not_yet_requested"/>
-                <element inactive_on_update="false" label="Requested" sequence="1" value="requested"/>
                 <element inactive_on_update="false" label="Approved" sequence="2" value="approved"/>
-                <element inactive_on_update="false" label="Rejected" sequence="3" value="rejected"/>
+                <element inactive_on_update="false" label="Requested" sequence="1" value="requested"/>
             </choice>
         </element>
     </element>

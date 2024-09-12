@@ -6,6 +6,7 @@
         <condition/>
         <conditional>false</conditional>
         <entered_time/>
+        <max_drift/>
         <ml_capability_definition display_value="aes_pdf_to_table_workflow1_0_0">6ceb98c187839950ee58fcc7dabb3547</ml_capability_definition>
         <ml_solution/>
         <name>aes_pdf_to_table_workflow1_0_0</name>

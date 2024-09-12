@@ -3,6 +3,7 @@
         <active>true</active>
         <condition/>
         <datasource display_value="">x_snc_navy_corre_0_leave_request</datasource>
+        <has_dynamic_filters>false</has_dynamic_filters>
         <name>Correspondence Request</name>
         <sys_class_name>ais_search_source</sys_class_name>
         <sys_created_by>jeffrey</sys_created_by>

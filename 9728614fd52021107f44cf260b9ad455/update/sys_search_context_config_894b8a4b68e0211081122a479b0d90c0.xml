@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_context_config">
     <sys_search_context_config action="INSERT_OR_UPDATE">
-        <evam_definition display_value="">f78b729b53d801109fa9ddeeff7b1201</evam_definition>
+        <collapse_attachment>true</collapse_attachment>
+        <document_match_count>3</document_match_count>
+        <document_match_threshold>0.65</document_match_threshold>
+        <enable_exact_match>true</enable_exact_match>
+        <enable_semantic_search>false</enable_semantic_search>
+        <evam_definition display_value="AI Search For Next Search">f78b729b53d801109fa9ddeeff7b1201</evam_definition>
         <genius_results_limit>1</genius_results_limit>
         <hit_highlighting>false</hit_highlighting>
+        <log_signals_server_side>false</log_signals_server_side>
         <name>Navy Correspondence Routing  AI Search Configurati</name>
         <search_engine>ai_search</search_engine>
         <search_profile display_value="Navy Correspondence Routing  search profile">414b8a4bf1e0211040d7c4c571f819de</search_profile>
         <search_results_limit>10</search_results_limit>
+        <semantic_groupby>none</semantic_groupby>
+        <semantic_search_mode>keyword</semantic_search_mode>
+        <semantic_type>standard</semantic_type>
+        <show_tab_counts>true</show_tab_counts>
         <spell_check>true</spell_check>
         <suggestions_to_show_limit>10</suggestions_to_show_limit>
         <sys_class_name>sys_search_context_config</sys_class_name>

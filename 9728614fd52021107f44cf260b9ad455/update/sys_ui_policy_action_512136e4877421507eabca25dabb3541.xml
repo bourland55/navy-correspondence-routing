@@ -3,6 +3,8 @@
         <cleared>false</cleared>
         <disabled>ignore</disabled>
         <field>co_approval</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
         <mandatory>ignore</mandatory>
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -18,6 +20,8 @@
         <sys_updated_on>2023-01-31 21:03:23</sys_updated_on>
         <table>x_snc_navy_corre_0_leave_request</table>
         <ui_policy display_value="only show CO approval if used">592136e4877421507eabca25dabb353e</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
         <visible>false</visible>
     </sys_ui_policy_action>
 </record_update>

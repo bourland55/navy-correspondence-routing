@@ -4,16 +4,22 @@
         <acls/>
         <active>false</active>
         <annotation/>
+        <attributes/>
+        <authored_on_release_version/>
         <callable_by_client_api>false</callable_by_client_api>
         <category/>
         <compiler_build/>
         <copied_from>9a41b6c2ff12101088e94ee9453bf1a4</copied_from>
         <copied_from_name>FlowTemplate_Empty</copied_from_name>
         <description>New officers added to wardroom group</description>
+        <display_name_after_preview/>
+        <flow_priority/>
+        <generation_source/>
         <internal_name>add_users_to_wardroom_group</internal_name>
         <label_cache>[{"name":"2a98c5d0-16e3-42a5-ab9d-3d644a58dfb8.Record","label":"1 - Look Up Record?Record","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"2a98c5d0-16e3-42a5-ab9d-3d644a58dfb8.Table","label":"1 - Look Up Record?Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"2a98c5d0-16e3-42a5-ab9d-3d644a58dfb8.status","label":"1 - Look Up Record?Status","reference_display":"Status","type":"choice","base_type":"choice","choices":[{"label":"Error","value":"1","order":0.0},{"label":"Success","value":"0","order":1.0}],"attributes":{"uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"choice","uiUniqueId":"5e478657-3a84-4a60-a92b-d3e80005ad34"}},{"name":"2a98c5d0-16e3-42a5-ab9d-3d644a58dfb8.error_message","label":"1 - Look Up Record?Error Message","reference_display":"Error Message","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiType":"string","uiUniqueId":"87687532-9e3d-4497-a88e-90f45bfb9adb"}},{"name":"2a98c5d0-16e3-42a5-ab9d-3d644a58dfb8.__action_status__","label":"1 - Look Up Record?Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"co_type_name":"FDACTIONSTATUS","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"object","action_error_output":"true"}},{"name":"2a98c5d0-16e3-42a5-ab9d-3d644a58dfb8.__dont_treat_as_error__","label":"1 - Look Up Record?Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"boolean","visible_in_ui":"false","action_error_output":"true"}},{"name":"b0097b60-7a0f-42b1-83bc-9fb61ad4a76d.Records","label":"1 - Look Up Records?User Records","reference":"sys_user","reference_display":"User Records","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"b0097b60-7a0f-42b1-83bc-9fb61ad4a76d.Table","label":"1 - Look Up Records?User Table","reference":"sys_user","reference_display":"User Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"b0097b60-7a0f-42b1-83bc-9fb61ad4a76d.Count","label":"1 - Look Up Records?Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"b0097b60-7a0f-42b1-83bc-9fb61ad4a76d.__action_status__","label":"1 - Look Up Records?Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"co_type_name":"FDACTIONSTATUS","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"object","action_error_output":"true"}},{"name":"b0097b60-7a0f-42b1-83bc-9fb61ad4a76d.__dont_treat_as_error__","label":"1 - Look Up Records?Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"boolean","visible_in_ui":"false","action_error_output":"true"}},{"name":"74c84140-ed3f-4751-8e12-480588ed9641.item","label":"2 - For Each?User Record","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}},{"name":"5e0be42d-851e-4ff4-91d1-21dc00be4057.record","label":"3 - Create Record?Record","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5e0be42d-851e-4ff4-91d1-21dc00be4057.table_name","label":"3 - Create Record?Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5e0be42d-851e-4ff4-91d1-21dc00be4057.__action_status__","label":"3 - Create Record?Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"co_type_name":"FDACTIONSTATUS","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"object","action_error_output":"true"}},{"name":"5e0be42d-851e-4ff4-91d1-21dc00be4057.__dont_treat_as_error__","label":"3 - Create Record?Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"boolean","visible_in_ui":"false","action_error_output":"true"}}]</label_cache>
         <latest_snapshot/>
         <master_snapshot/>
+        <master_snapshot_digest/>
         <name>Add Users to Wardroom Group</name>
         <natlang/>
         <outputs/>
@@ -25,6 +31,7 @@
         <show_draft_actions>false</show_draft_actions>
         <show_triggered_flows>false</show_triggered_flows>
         <status>draft</status>
+        <substatus/>
         <sys_class_name>sys_hub_flow</sys_class_name>
         <sys_created_by>jeffrey</sys_created_by>
         <sys_created_on>2023-01-27 00:39:22</sys_created_on>
@@ -41,9 +48,27 @@
         <sys_updated_by>jeffrey</sys_updated_by>
         <sys_updated_on>2023-01-27 00:45:17</sys_updated_on>
         <type>flow</type>
+        <version>1</version>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=5ca2bd8bd56021107f44cf260b9ad48b"/>
     <sys_variable_value action="delete_multiple" query="document_key=5ca2bd8bd56021107f44cf260b9ad48b"/>
+    <sys_hub_flow_stage action="delete_multiple" query="flow=5ca2bd8bd56021107f44cf260b9ad48b"/>
+    <sys_flow_cat_variable_model action="delete_multiple" query="id=5ca2bd8bd56021107f44cf260b9ad48b^sys_idNOT INdca2bd8bd56021107f44cf260b9ad48d"/>
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>5ca2bd8bd56021107f44cf260b9ad48b</id>
+        <name>Add Users to Wardroom Group</name>
+        <sys_created_by>jeffrey</sys_created_by>
+        <sys_created_on>2023-01-27 00:39:23</sys_created_on>
+        <sys_id>dca2bd8bd56021107f44cf260b9ad48d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>jeffrey</sys_updated_by>
+        <sys_updated_on>2023-01-27 00:39:23</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_flow_cat_variable action="delete_multiple" query="flow_catalog_model=dca2bd8bd56021107f44cf260b9ad48d"/>
+    <sys_hub_flow_input action="delete_multiple" query="model=5ca2bd8bd56021107f44cf260b9ad48b"/>
+    <sys_hub_flow_output action="delete_multiple" query="model=5ca2bd8bd56021107f44cf260b9ad48b"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=5ca2bd8bd56021107f44cf260b9ad48b"/>
     <sys_hub_trigger_instance action="delete_multiple" query="flow=5ca2bd8bd56021107f44cf260b9ad48b^sys_idNOT INf2f33d0fd56021107f44cf260b9ad480"/>
     <sys_hub_trigger_instance action="INSERT_OR_UPDATE">
         <comment/>
@@ -79,33 +104,18 @@
         <variable display_value="Run in">92afcd94c32222002841b63b12d3aee8</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_trigger_input_0a76e504c32222002841b63b12d3aeac^id=f2f33d0fd56021107f44cf260b9ad480"/>
-    <sys_hub_flow_stage action="delete_multiple" query="flow=5ca2bd8bd56021107f44cf260b9ad48b"/>
-    <sys_flow_cat_variable_model action="delete_multiple" query="id=5ca2bd8bd56021107f44cf260b9ad48b^sys_idNOT INdca2bd8bd56021107f44cf260b9ad48d"/>
-    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
-        <id>5ca2bd8bd56021107f44cf260b9ad48b</id>
-        <name>Add Users to Wardroom Group</name>
-        <sys_created_by>jeffrey</sys_created_by>
-        <sys_created_on>2023-01-27 00:39:23</sys_created_on>
-        <sys_id>dca2bd8bd56021107f44cf260b9ad48d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_scope/>
-        <sys_updated_by>jeffrey</sys_updated_by>
-        <sys_updated_on>2023-01-27 00:39:23</sys_updated_on>
-    </sys_flow_cat_variable_model>
-    <sys_flow_cat_variable action="delete_multiple" query="flow_catalog_model=dca2bd8bd56021107f44cf260b9ad48d"/>
-    <sys_hub_flow_input action="delete_multiple" query="model=5ca2bd8bd56021107f44cf260b9ad48b"/>
-    <sys_hub_flow_output action="delete_multiple" query="model=5ca2bd8bd56021107f44cf260b9ad48b"/>
-    <sys_hub_alias_mapping action="delete_multiple" query="source_id=5ca2bd8bd56021107f44cf260b9ad48b"/>
     <sys_hub_action_instance action="delete_multiple" query="flow=5ca2bd8bd56021107f44cf260b9ad48b^sys_idNOT IN3af33d0fd56021107f44cf260b9ad494,7ef33d0fd56021107f44cf260b9ad488"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
         <action_type display_value="Create Record">2de05916c31332002841b63b12d3aee1</action_type>
         <action_type_parent/>
+        <attributes/>
         <comment/>
         <compiled_snapshot/>
         <display_text/>
         <flow display_value="Add Users to Wardroom Group">5ca2bd8bd56021107f44cf260b9ad48b</flow>
+        <generation_source/>
         <order>3</order>
         <parent_ui_id>74c84140-ed3f-4751-8e12-480588ed9641</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
@@ -164,10 +174,12 @@
         <action_inputs/>
         <action_type display_value="Look Up Records">43400a1587003300663ca1bb36cb0b4b</action_type>
         <action_type_parent/>
+        <attributes/>
         <comment/>
         <compiled_snapshot/>
         <display_text/>
         <flow display_value="Add Users to Wardroom Group">5ca2bd8bd56021107f44cf260b9ad48b</flow>
+        <generation_source/>
         <order>1</order>
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
@@ -212,9 +224,9 @@
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_action_input_43400a1587003300663ca1bb36cb0b4b^id=7ef33d0fd56021107f44cf260b9ad488"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=7ef33d0fd56021107f44cf260b9ad488"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=7ef33d0fd56021107f44cf260b9ad488"/>
-    <sys_hub_sub_flow_instance action="delete_multiple" query="flow=5ca2bd8bd56021107f44cf260b9ad48b"/>
     <sys_hub_flow_logic action="delete_multiple" query="flow=5ca2bd8bd56021107f44cf260b9ad48b^sys_idNOT IN32f33d0fd56021107f44cf260b9ad48d"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
         <block display_value="">72f33d0fd56021107f44cf260b9ad48c</block>
         <comment/>
         <connected_to/>
@@ -225,6 +237,7 @@
         <flow display_value="Add Users to Wardroom Group">5ca2bd8bd56021107f44cf260b9ad48b</flow>
         <flow_variable/>
         <flow_variables_assigned/>
+        <generation_source/>
         <inputs/>
         <inputs/>
         <logic_definition display_value="For Each">098e1dc5c3e232002841b63b12d3ae33</logic_definition>
@@ -260,6 +273,7 @@
     </sys_element_mapping>
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=32f33d0fd56021107f44cf260b9ad48d"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=32f33d0fd56021107f44cf260b9ad48d"/>
+    <sys_hub_sub_flow_instance action="delete_multiple" query="flow=5ca2bd8bd56021107f44cf260b9ad48b"/>
     <sys_hub_pill_compound action="delete_multiple" query="attached_to=5ca2bd8bd56021107f44cf260b9ad48b"/>
     <sys_hub_flow_variable action="delete_multiple" query="model=5ca2bd8bd56021107f44cf260b9ad48b"/>
     <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_5ca2bd8bd56021107f44cf260b9ad48b"/>

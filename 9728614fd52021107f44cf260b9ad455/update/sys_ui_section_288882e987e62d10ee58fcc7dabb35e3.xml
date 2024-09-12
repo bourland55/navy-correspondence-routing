@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Vendor" section_id="288882e987e62d10ee58fcc7dabb35e3" sys_domain="global" table="incident" version="3" view="Workspace-Navy-Correspondence-TEST-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 20:29:38</sys_created_on>
+            <sys_id>e48882e987e62d10ee58fcc7dabb35e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vendor" display_value="Vendor" name="incident" sys_domain="global" view="94780ea9d2e62d100e30c683ae714f93">288882e987e62d10ee58fcc7dabb35e3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 20:29:38</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>scr_vendor</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 20:29:38</sys_created_on>
+            <sys_id>e88882e987e62d10ee58fcc7dabb35e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vendor" display_value="Vendor" name="incident" sys_domain="global" view="94780ea9d2e62d100e30c683ae714f93">288882e987e62d10ee58fcc7dabb35e3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 20:29:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>scr_vendor_ticket</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 20:29:38</sys_created_on>
+            <sys_id>ec8882e987e62d10ee58fcc7dabb35e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vendor" display_value="Vendor" name="incident" sys_domain="global" view="94780ea9d2e62d100e30c683ae714f93">288882e987e62d10ee58fcc7dabb35e3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 20:29:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>scr_vendor_point_of_contact</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 20:29:38</sys_created_on>
+            <sys_id>e08882e987e62d10ee58fcc7dabb35e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vendor" display_value="Vendor" name="incident" sys_domain="global" view="94780ea9d2e62d100e30c683ae714f93">288882e987e62d10ee58fcc7dabb35e3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 20:29:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 20:29:38</sys_created_on>
+            <sys_id>e48882e987e62d10ee58fcc7dabb35e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vendor" display_value="Vendor" name="incident" sys_domain="global" view="94780ea9d2e62d100e30c683ae714f93">288882e987e62d10ee58fcc7dabb35e3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 20:29:38</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 20:29:38</sys_created_on>
+            <sys_id>e88882e987e62d10ee58fcc7dabb35e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vendor" display_value="Vendor" name="incident" sys_domain="global" view="94780ea9d2e62d100e30c683ae714f93">288882e987e62d10ee58fcc7dabb35e3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 20:29:38</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Vendor</caption>
+            <header>false</header>
+            <name>incident</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 20:29:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>288882e987e62d10ee58fcc7dabb35e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>incident</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Navy Correspondence Routing " source="x_snc_navy_corre_0">9728614fd52021107f44cf260b9ad455</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Navy Correspondence Routing ">9728614fd52021107f44cf260b9ad455</sys_scope>
+            <sys_update_name>sys_ui_section_288882e987e62d10ee58fcc7dabb35e3</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 20:29:38</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace Navy Correspondence TEST 0" name="Workspace-Navy-Correspondence-TEST-0">94780ea9d2e62d100e30c683ae714f93</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

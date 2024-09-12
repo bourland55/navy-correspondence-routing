@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Additional Details" section_id="0c8842e987e62d10ee58fcc7dabb35dc" sys_domain="global" table="sys_user" version="3" view="Workspace-Navy-Correspondence-TEST-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>transaction_log</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 20:29:37</sys_created_on>
+            <sys_id>c08842e987e62d10ee58fcc7dabb35eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Additional Details" display_value="Additional Details" name="sys_user" sys_domain="global" view="94780ea9d2e62d100e30c683ae714f93">0c8842e987e62d10ee58fcc7dabb35dc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 20:29:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>correlation_id</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 20:29:37</sys_created_on>
+            <sys_id>c48842e987e62d10ee58fcc7dabb35eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Additional Details" display_value="Additional Details" name="sys_user" sys_domain="global" view="94780ea9d2e62d100e30c683ae714f93">0c8842e987e62d10ee58fcc7dabb35dc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 20:29:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 20:29:37</sys_created_on>
+            <sys_id>c88842e987e62d10ee58fcc7dabb35eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Additional Details" display_value="Additional Details" name="sys_user" sys_domain="global" view="94780ea9d2e62d100e30c683ae714f93">0c8842e987e62d10ee58fcc7dabb35dc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 20:29:37</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>gender</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 20:29:37</sys_created_on>
+            <sys_id>dc8842e987e62d10ee58fcc7dabb35eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Additional Details" display_value="Additional Details" name="sys_user" sys_domain="global" view="94780ea9d2e62d100e30c683ae714f93">0c8842e987e62d10ee58fcc7dabb35dc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 20:29:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>zip</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 20:29:37</sys_created_on>
+            <sys_id>d08842e987e62d10ee58fcc7dabb35ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Additional Details" display_value="Additional Details" name="sys_user" sys_domain="global" view="94780ea9d2e62d100e30c683ae714f93">0c8842e987e62d10ee58fcc7dabb35dc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 20:29:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Additional Details</caption>
+            <header>false</header>
+            <name>sys_user</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 20:29:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0c8842e987e62d10ee58fcc7dabb35dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_user</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Navy Correspondence Routing " source="x_snc_navy_corre_0">9728614fd52021107f44cf260b9ad455</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Navy Correspondence Routing ">9728614fd52021107f44cf260b9ad455</sys_scope>
+            <sys_update_name>sys_ui_section_0c8842e987e62d10ee58fcc7dabb35dc</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 20:29:37</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace Navy Correspondence TEST 0" name="Workspace-Navy-Correspondence-TEST-0">94780ea9d2e62d100e30c683ae714f93</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

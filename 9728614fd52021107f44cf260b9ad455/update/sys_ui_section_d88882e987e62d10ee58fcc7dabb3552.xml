@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Purchasing" section_id="d88882e987e62d10ee58fcc7dabb3552" sys_domain="global" table="alm_asset" version="3" view="Workspace-Navy-Correspondence-TEST-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 20:29:38</sys_created_on>
+            <sys_id>988882e987e62d10ee58fcc7dabb3554</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Purchasing" display_value="Purchasing" name="alm_asset" sys_domain="global" view="94780ea9d2e62d100e30c683ae714f93">d88882e987e62d10ee58fcc7dabb3552</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 20:29:38</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>purchase_order.supplier</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 20:29:38</sys_created_on>
+            <sys_id>9c8882e987e62d10ee58fcc7dabb3554</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Purchasing" display_value="Purchasing" name="alm_asset" sys_domain="global" view="94780ea9d2e62d100e30c683ae714f93">d88882e987e62d10ee58fcc7dabb3552</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 20:29:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>purchase_order</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 20:29:38</sys_created_on>
+            <sys_id>908882e987e62d10ee58fcc7dabb3555</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Purchasing" display_value="Purchasing" name="alm_asset" sys_domain="global" view="94780ea9d2e62d100e30c683ae714f93">d88882e987e62d10ee58fcc7dabb3552</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 20:29:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>purchase_order.erp_number</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 20:29:38</sys_created_on>
+            <sys_id>948882e987e62d10ee58fcc7dabb3555</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Purchasing" display_value="Purchasing" name="alm_asset" sys_domain="global" view="94780ea9d2e62d100e30c683ae714f93">d88882e987e62d10ee58fcc7dabb3552</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 20:29:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>purchase_order_line</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 20:29:38</sys_created_on>
+            <sys_id>988882e987e62d10ee58fcc7dabb3555</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Purchasing" display_value="Purchasing" name="alm_asset" sys_domain="global" view="94780ea9d2e62d100e30c683ae714f93">d88882e987e62d10ee58fcc7dabb3552</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 20:29:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>purchase_order_line.uom</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 20:29:38</sys_created_on>
+            <sys_id>9c8882e987e62d10ee58fcc7dabb3555</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Purchasing" display_value="Purchasing" name="alm_asset" sys_domain="global" view="94780ea9d2e62d100e30c683ae714f93">d88882e987e62d10ee58fcc7dabb3552</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 20:29:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>purchase_order_line.unit_price</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 20:29:38</sys_created_on>
+            <sys_id>908882e987e62d10ee58fcc7dabb3556</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Purchasing" display_value="Purchasing" name="alm_asset" sys_domain="global" view="94780ea9d2e62d100e30c683ae714f93">d88882e987e62d10ee58fcc7dabb3552</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 20:29:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 20:29:38</sys_created_on>
+            <sys_id>948882e987e62d10ee58fcc7dabb3556</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Purchasing" display_value="Purchasing" name="alm_asset" sys_domain="global" view="94780ea9d2e62d100e30c683ae714f93">d88882e987e62d10ee58fcc7dabb3552</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 20:29:38</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>purchase_order_line.recipient</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 20:29:38</sys_created_on>
+            <sys_id>988882e987e62d10ee58fcc7dabb3556</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Purchasing" display_value="Purchasing" name="alm_asset" sys_domain="global" view="94780ea9d2e62d100e30c683ae714f93">d88882e987e62d10ee58fcc7dabb3552</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 20:29:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>receipt.received</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 20:29:38</sys_created_on>
+            <sys_id>9c8882e987e62d10ee58fcc7dabb3556</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Purchasing" display_value="Purchasing" name="alm_asset" sys_domain="global" view="94780ea9d2e62d100e30c683ae714f93">d88882e987e62d10ee58fcc7dabb3552</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 20:29:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>receipt_task</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 20:29:38</sys_created_on>
+            <sys_id>908882e987e62d10ee58fcc7dabb3557</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Purchasing" display_value="Purchasing" name="alm_asset" sys_domain="global" view="94780ea9d2e62d100e30c683ae714f93">d88882e987e62d10ee58fcc7dabb3552</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 20:29:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>shipment_detail</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 20:29:38</sys_created_on>
+            <sys_id>948882e987e62d10ee58fcc7dabb3557</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Purchasing" display_value="Purchasing" name="alm_asset" sys_domain="global" view="94780ea9d2e62d100e30c683ae714f93">d88882e987e62d10ee58fcc7dabb3552</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 20:29:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 20:29:38</sys_created_on>
+            <sys_id>988882e987e62d10ee58fcc7dabb3557</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Purchasing" display_value="Purchasing" name="alm_asset" sys_domain="global" view="94780ea9d2e62d100e30c683ae714f93">d88882e987e62d10ee58fcc7dabb3552</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 20:29:38</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Purchasing</caption>
+            <header>false</header>
+            <name>alm_asset</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 20:29:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d88882e987e62d10ee58fcc7dabb3552</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>alm_asset</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Navy Correspondence Routing " source="x_snc_navy_corre_0">9728614fd52021107f44cf260b9ad455</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Navy Correspondence Routing ">9728614fd52021107f44cf260b9ad455</sys_scope>
+            <sys_update_name>sys_ui_section_d88882e987e62d10ee58fcc7dabb3552</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 20:29:38</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace Navy Correspondence TEST 0" name="Workspace-Navy-Correspondence-TEST-0">94780ea9d2e62d100e30c683ae714f93</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

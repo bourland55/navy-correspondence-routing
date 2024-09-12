@@ -4,6 +4,7 @@
         <api_name>x_snc_navy_corre_0.Audience for app navy-correspondence-routing</api_name>
         <description/>
         <name>Audience for app navy-correspondence-routing</name>
+        <role_names/>
         <roles>6728614fd52021107f44cf260b9ad469,af28614fd52021107f44cf260b9ad46e</roles>
         <sys_class_name>sys_ux_applicability</sys_class_name>
         <sys_created_by>jeffrey</sys_created_by>

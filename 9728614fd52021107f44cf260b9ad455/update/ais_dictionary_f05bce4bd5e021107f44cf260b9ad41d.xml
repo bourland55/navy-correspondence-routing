@@ -8,10 +8,10 @@
         <derived>true</derived>
         <field/>
         <label>Navy Correspondence Routing  search profile Default Spell Check Dictionary</label>
-        <last_derived>2023-04-24 01:26:56</last_derived>
+        <last_derived>2024-09-11 15:26:56</last_derived>
         <locale>en</locale>
         <name>x_snc_navy_corre_0_navy_correspondence_routing_search_profile_default_spell_check_dictionary</name>
-        <publish_id>986ae186-ad4b-4e1b-949f-2fc6f57faeec</publish_id>
+        <publish_id>e4985519-32fb-4daf-bad9-acf332491097</publish_id>
         <punctuation_sensitive>false</punctuation_sensitive>
         <state>PUBLISHED</state>
         <sys_class_name>ais_dictionary</sys_class_name>

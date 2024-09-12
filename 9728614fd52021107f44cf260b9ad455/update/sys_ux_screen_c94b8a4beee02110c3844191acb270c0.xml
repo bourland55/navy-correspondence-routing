@@ -3,6 +3,7 @@
         <active>true</active>
         <app_config display_value="Navy Correspondence Routing  Config">8d4b8a4bdce02110ce2e5e617a86ddde</app_config>
         <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
         <event_mappings>[ ]</event_mappings>
         <macroponent display_value="Record default">014b8a4bc8e02110b64c9acf396368c0</macroponent>
         <macroponent_config>{
@@ -49,7 +50,7 @@
 }</macroponent_config>
         <name>Record default</name>
         <order>0</order>
-        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
         <required_translations>[ ]</required_translations>
         <rollback_screen/>
         <screen_condition/>
